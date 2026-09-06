@@ -293,7 +293,7 @@ st.markdown("""
         <h1 class="header-title"> MEDISCAN AI </h1>
         <div class="header-subtitle">Clinical Precision & AI-Powered Lab Report Interpretation</div>
     </div>
-    <div class="logo-badge">ClarityHealth AI v2.5</div>
+    <div class="logo-badge">MEDISCAN AI v2.5</div>
 </div>
 """, unsafe_allow_html=True)
 
