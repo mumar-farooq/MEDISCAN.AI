@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+joblib
+pillow
+pytesseract
+PyMuPDF
