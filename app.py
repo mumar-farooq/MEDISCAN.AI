@@ -17,7 +17,7 @@ except ImportError:
 # PAGE CONFIGURATION
 # ============================================================
 st.set_page_config(
-    page_title="ClarityHealth • AI Lab Report Analyzer",
+    page_title="MEDI SCAN AI",
     page_icon="🧪",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -241,7 +241,7 @@ st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
 st.markdown("""
 <div class="header-banner">
     <div>
-        <h1 class="header-title">🧪 ClarityHealth Lab Analyzer</h1>
+        <h1 class="header-title">🧪 MEDI SCAN AI</h1>
         <div class="header-subtitle">Clinical Precision & AI-Powered Lab Report Interpretation</div>
     </div>
     <div class="logo-badge">ClarityHealth AI v2.5</div>
