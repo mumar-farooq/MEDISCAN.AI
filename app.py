@@ -17,7 +17,7 @@ except ImportError:
 # PAGE CONFIGURATION
 # ============================================================
 st.set_page_config(
-    page_title="ClarityHealth • AI Lab Report Analyzer",
+    page_title="MEDI SCAN AI",
     page_icon="🧪",
     layout="wide",
     initial_sidebar_state="expanded"
