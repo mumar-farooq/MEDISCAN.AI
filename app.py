@@ -290,7 +290,7 @@ st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
 st.markdown("""
 <div class="header-banner">
     <div>
-        <h1 class="header-title">🧪 ClarityHealth Lab Analyzer</h1>
+        <h1 class="header-title"> MEDISCAN AI </h1>
         <div class="header-subtitle">Clinical Precision & AI-Powered Lab Report Interpretation</div>
     </div>
     <div class="logo-badge">ClarityHealth AI v2.5</div>
