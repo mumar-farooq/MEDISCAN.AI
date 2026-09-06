@@ -12,9 +12,7 @@ Streamlit app that combines:
 
 ## Model provenance
 
-The `models/` folder contains real trained models, sourced from
-[mrzaeem102-web/Medi-Scan-Ai](https://github.com/mrzaeem102-web/Medi-Scan-Ai):
-
+The `models/` folder contains real trained models, 
 | Disease  | Model     | Features (in order) | Artifacts |
 |----------|-----------|----------------------|-----------|
 | Diabetes | XGBoost   | Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age | `xgb_diabetes.pkl`, `scaler_diabetes.pkl` |
