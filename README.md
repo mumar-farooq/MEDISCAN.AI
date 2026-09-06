@@ -1,4 +1,4 @@
-# 🧪 ClarityHealth AI Lab Report Analyzer
+# 🧪 MEDISCAN AI
 
 Streamlit app that combines:
 
